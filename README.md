@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: Express, Node, SQL and Software Security.
 - 👯 I’m looking to collaborate on: Back-End development and brand new challenges.
 - 🤔 I’m looking for help with: To make my codes cleaner and more readable. And a girlfriend ♥️!
-- 📫 How to reach me: pedrokaram@gmail.com
+- 📫 How to reach me: pedrokaram4005@gmail.com
 - ⚡ Fun fact: I love learning languages. Let me learn yours...
 
 <p align="left">
