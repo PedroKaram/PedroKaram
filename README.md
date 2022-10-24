@@ -2,7 +2,7 @@
 <h3 align="center">5'9 foot of pure impostors syndrome</h3>
 
 - 🔭 I’m currently working on: Completing college and some personal side projects.
-- 🌱 I’m currently learning: Express, Node, SQL and Software Security.
+- 🌱 I’m currently learning: Express, Node, Nest and C# (.NET).
 - 👯 I’m looking to collaborate on: Back-End development and brand new challenges.
 - 🤔 I’m looking for help with: To make my codes cleaner and more readable. And a girlfriend ♥️!
 - 📫 How to reach me: pedrokaram4005@gmail.com
