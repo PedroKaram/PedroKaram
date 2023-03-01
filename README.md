@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on: Back-End development and brand new challenges.
 - 🤔 I’m looking for help with: To make my codes cleaner and more readable. And a girlfriend ♥️!
 - 📫 How to reach me: pedrokaram4005@gmail.com
-- ⚡ Fun fact: I love learning languages. Let me learn yours...
+- ⚡ Fun fact: I love learning languages.
 
 <p align="left">
 <a href="https://www.instagram.com/pedro._.karam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pedro Karam" height="30" width="40" /></a>
